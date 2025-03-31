@@ -1,0 +1,45 @@
+# R関連の一般的なファイル
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# renv関連ファイル (lockファイルは保持)
+renv/library/
+renv/staging/
+renv/local/
+renv/cellar/
+
+# 中間ファイル
+*.o
+*.so
+*.dll
+
+# macOSシステムファイル
+.DS_Store
+
+# Windowsシステムファイル
+Thumbs.db
+desktop.ini
+
+# エディタ関連
+.vscode/
+.idea/
+*.swp
+*~
+
+# 出力ファイル (必要に応じてコメントアウト)
+# *.html
+# *.pdf
+# *.png
+# *.jpg
+# *.jpeg
+# *.gif
+# *.svg
+
+# エラーログ
+*.log
+
+# Cursorエディタ関連
+.cursor/runSession/ 
