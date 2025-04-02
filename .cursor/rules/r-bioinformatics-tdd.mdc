@@ -3,11 +3,6 @@ description:
 globs: 
 alwaysApply: false
 ---
----
-Description: テスト駆動開発（TDD）とドキュメント標準 - R言語生物情報学
-Globs: **/*.R, **/*.Rmd
-IgnorePaths: doc/notepad/**
----
 
 # R言語生物情報学のための開発・ドキュメント標準
 
